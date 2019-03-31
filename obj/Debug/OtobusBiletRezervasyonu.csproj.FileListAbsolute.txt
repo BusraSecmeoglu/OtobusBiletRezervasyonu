@@ -1,0 +1,85 @@
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\OtobusBiletRezervasyonu.exe.config
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\OtobusBiletRezervasyonu.exe
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\OtobusBiletRezervasyonu.pdb
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.dll
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.SqlServer.dll
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.xml
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.SqlServer.xml
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csprojAssemblyReference.cache
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Form1.resources
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Properties.Resources.resources
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csproj.GenerateResource.cache
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csproj.CoreCompileInputs.cache
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csproj.CopyComplete
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.exe
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.pdb
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Migrations.InitialCreate.resources
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Migrations.InitialCreate1.resources
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Migrations.DriverDeletedFromBus.resources
+E:\1. GRUP\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Migrations.TripBusKeyAdded.resources
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\OtobusBiletRezervasyonu.exe.config
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\OtobusBiletRezervasyonu.exe
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\OtobusBiletRezervasyonu.pdb
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.dll
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.xml
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Form1.resources
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.FormTicketSale.resources
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.MainPage.resources
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Migrations.InitialCreate.resources
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Migrations.InitialCreate1.resources
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Migrations.DriverDeletedFromBus.resources
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Migrations.TripBusKeyAdded.resources
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Properties.Resources.resources
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csproj.GenerateResource.cache
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csproj.CopyComplete
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.exe
+C:\Users\iau\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.pdb
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Form1.resources
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.FormTicketSale.resources
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.MainPage.resources
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Properties.Resources.resources
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.exe
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.pdb
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\OtobusBiletRezervasyonu.exe.config
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\OtobusBiletRezervasyonu.exe
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\OtobusBiletRezervasyonu.pdb
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csproj.CopyComplete
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.FormCitiesAdd.resources
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.FormPassenger.resources
+C:\Users\Casper\Desktop\BusRezervationProject\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.FormControl.resources
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Form1.resources
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.FormCitiesAdd.resources
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.FormControl.resources
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.FormPassenger.resources
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.FormTicketSale.resources
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.MainPage.resources
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Properties.Resources.resources
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.exe
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.pdb
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\OtobusBiletRezervasyonu.exe.config
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\OtobusBiletRezervasyonu.exe
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\OtobusBiletRezervasyonu.pdb
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.csproj.CopyComplete
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.FormTracking.resources
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Migrations.t.resources
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Migrations.l.resources
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Migrations.mg.resources
+C:\Users\Casper\Desktop\BusRezervationProject - Kopya\OtobusBiletRezervasyonu\OtobusBiletRezervasyonu\obj\Debug\OtobusBiletRezervasyonu.Migrations.mf.resources
